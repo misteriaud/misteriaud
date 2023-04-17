@@ -1,6 +1,6 @@
 ## What to say?
 Aspiring software engineer and former cinema/television sound mixer.
-Self-taught coder since childhood and currently learning computer science concepts and development best practices at 42 school.
+Self-taught coder since childhood and currently learning computer science concepts and development best practices at [42 school](https://42.fr/en/homepage/).
 Interest in networking, especially distributed network topics.
 
 ## More about me
