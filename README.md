@@ -3,7 +3,11 @@ Aspiring software engineer and former cinema/television sound mixer.
 Self-taught coder since childhood and currently learning computer science concepts and development best practices at 42 school.
 Interest in networking, especially distributed network topics.
 
-***
+## More about me
+
+<details>
+  <summary>Skills</summary>
+
 ### Soft skills
 - Committed to a methodical approach (don't like to jump right into coding to end up with spaghetti code).
 - Emphasis on effective team communication.
@@ -24,9 +28,13 @@ Interest in networking, especially distributed network topics.
 I'm interested in these techs:
 - **Rust**: to work on distributed safe software, and to learn WASM concepts.
 - **Elixir**: `BEAM VM` appears to be powerful, and the Elixir functional programming paradigm attracts me.
-
+	
 ***
-## Relevant projects
+</details>
+
+<details>
+  <summary>Relevant projects</summary>
+  
 ### School projects
 - **Minishell**: implementation from scratch of a `bash` prompting program.
 - **Containers**: home-made implementation in C++ of some STL containers (`std::vector`, `std::map`, `std::set`, `std::stack`) using memory management and `RBTree` under the hood.
@@ -36,8 +44,10 @@ I'm interested in these techs:
 - **CyberClub**: online cinema club for sharing underground movies with my friends and family during the pandemic.
 - Several professional tools for dubbing recording.
 - Made contributions to the open-source **QuickAdd** obsidian.md plugin.
-
+	
 ***
-## Call to Action:
+</details>
+
+## Call to Action
 I'm currently looking for a 6-month internship. My dream internship would be working on a distributed software, written in Rust, in another country than France to discover other ways of team working.
 Please feel free to contact me.
