@@ -53,7 +53,3 @@ I'm interested in these techs:
 
 ***
 </details>
-
-## Call to Action
-I'm currently looking for a 6-month internship. My ideal internship would be working on a distributed software, written in Rust, in another country than France to discover other ways of team working.
-Please feel free to contact me.
