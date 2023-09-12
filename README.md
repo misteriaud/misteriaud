@@ -22,7 +22,7 @@ Interests in networking (especially distributed), audio signal processing and ma
 - Basic Linux administration knowledge (installation, package installation, `sudo` authorization).
 - `Makefile` writing.
 - `Dockerfile` and `docker-compose.yml` writing.
-- Skills in domain name administration and cloud management (e.g., running instances, setting up load-balancer, "serverless" functions).
+- Skills in domain name and cloud administration (e.g., running instances, setting up load-balancer, "serverless" functions).
 
 #### Next on my learning list
 I'm interested in these techs:
