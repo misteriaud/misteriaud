@@ -50,6 +50,7 @@ I'm interested in these techs:
 - **CyberClub**: online cinema club for sharing underground movies with my friends and family during the pandemic.
 - Several professional tools for dubbing recording.
 - Made contributions to the open-source [**QuickAdd**](https://github.com/chhoumann/quickadd) obsidian.md plugin via pull/request.
+- [**Passeri**](https://github.com/misteriaud/passeri): Rust MIDI Sender/Receiver bridge over network.
 
 ***
 </details>
